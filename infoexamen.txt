@@ -1,0 +1,21 @@
+* commit f493e6f6bf8c258035c15e86ccf532eb0fc0eb98 (HEAD -> Rama_Ejercicio2)
+| Author: Losky92@gmail.com <Losky92@gmail.com>
+| Date:   Mon Jun 7 13:12:56 2021 +0200
+| 
+|     añadimos las imagenes
+| 
+* commit 258b4240437c280383a2d501c8404d1f2bdc4170
+| Author: Losky92@gmail.com <Losky92@gmail.com>
+| Date:   Mon Jun 7 13:08:48 2021 +0200
+| 
+|     añadimos descripcion del script
+| 
+* commit 54253117c90edb8d58152146a9bb2f1f7effb9e3 (master)
+  Author: Losky92@gmail.com <Losky92@gmail.com>
+  Date:   Mon Jun 7 12:57:07 2021 +0200
+  
+      añadimos script
+f493e6f HEAD@{0}: commit: añadimos las imagenes
+258b424 HEAD@{1}: commit: añadimos descripcion del script
+5425311 HEAD@{2}: checkout: moving from master to Rama_Ejercicio2
+5425311 HEAD@{3}: commit (initial): añadimos script
